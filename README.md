@@ -1,2 +1,2 @@
-Simple Bootstrap page - ex.
+Simple Bootstrap page - an ex.
 
